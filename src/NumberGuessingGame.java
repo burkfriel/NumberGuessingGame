@@ -45,14 +45,7 @@ public class NumberGuessingGame {
 
                 numberOfGuesses--;
 
-
-
-
-
             }
-
-
-
 
             if (youGotIt==true){
                 System.out.println("Thank you for playing");
